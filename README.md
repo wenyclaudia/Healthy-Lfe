@@ -24,8 +24,7 @@ Website "Healthy Life" adalah sebuah platform yang didesain untuk mempromosikan 
 
 Website ini di-deploy menggunakan GitHub Pages dan dapat diakses melalui link berikut:
 
-[**LINK GITHUB PAGES ANDA DI SINI**](https://yourusername.github.io/your-repository-name/)
-*(Jangan lupa ganti link ini dengan URL GitHub Pages Anda setelah di-deploy!)*
+[**https://wenyclaudia.github.io/Healthy-Lfe/**](https://wenyclaudia.github.io/Healthy-Lfe/)
 
 ## Kontribusi & Pengembang
 
