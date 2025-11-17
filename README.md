@@ -1,17 +1,17 @@
 # Healthy Life Website
 
-Website "Healthy Life" adalah sebuah platform yang didesain untuk mempromosikan gaya hidup sehat melalui informasi kesehatan, panduan olahraga, dan penawaran kelas kebugaran. Website ini dikembangkan sebagai bagian dari tugas Ujian Tengah Semester Mata Kuliah Web Development.
+Website "Healthy Life" adalah sebuah platform yang didesain untuk mempromosikan gaya hidup sehat melalui informasi kesehatan, panduan olahraga, dan penawaran kelas kebugaran. Website ini dikembangkan sebagai bagian dari tugas Ujian Tengah Semester Mata Kuliah Web Production.
 
 ## Fitur Utama
 
 * **Homepage Interaktif:** Halaman utama satu halaman (one-page) yang menampilkan ikhtisar lengkap tentang Healthy Life.
-* **Navigasi Lengkap:** Menu navigasi sticky dengan 8 tautan yang mengarah ke berbagai bagian situs.
+* **Navigasi Lengkap:** Menu navigasi sticky dengan tautan yang mengarah ke berbagai bagian situs.
 * **Informasi Kesehatan:** Bagian khusus yang berisi tips dan manfaat gaya hidup sehat.
 * **Galeri Visual:** Galeri statis dengan gambar-gambar inspiratif tentang olahraga dan makanan sehat.
 * **Daftar Kelas & Harga:** Bagian dan halaman terpisah yang menampilkan berbagai pilihan kelas kebugaran dengan detail paket dan harga.
 * **Formulir Pendaftaran:** Formulir kontak dan pendaftaran untuk bergabung dengan kelas atau mendapatkan informasi lebih lanjut.
 * **Desain Responsif:** Dibuat menggunakan Mobirise untuk tampilan optimal di berbagai perangkat.
-* **Skema Warna:** Menggunakan kombinasi warna hijau dan kuning yang cerah dan energik.
+* **Skema Warna:** Menggunakan warna hijau dan putih yang cerah dan energik.
 
 ## Struktur Proyek
 
